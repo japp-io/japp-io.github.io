@@ -1,0 +1,38 @@
+site_name: Documentations
+theme:
+  name: material
+  logo: assets/japp.io.png
+  favicon: assets/favicon.png
+  font:
+    text: Roboto
+  features:
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+      accent: white 
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  generator: false
+copyright: |
+  &copy; 2023 <a href="https://japp.io"  target="_blank" rel="noopener">japp.io</a>
+
+nav:
+- 'index.md'
