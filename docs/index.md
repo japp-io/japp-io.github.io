@@ -12,7 +12,7 @@ Discover our range of meticulously designed apps tailored to fulfill our users' 
 
 Enhance your audio experience with the best Equalizer FX, Bass Booster & Loudness Booster for your Android Phone.
 
-[Download Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.flatequalizer)
+[Download Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer)
 
 [Flat Equalizer Wiki](https://wiki.japp.io/flat-equalizer)
 
