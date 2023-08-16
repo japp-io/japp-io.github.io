@@ -20,7 +20,7 @@ Enhance your audio experience with the best Equalizer FX, Bass Booster & Loudnes
 
 Transform your headphones into noise un-cancelling headphones and stay aware of your surroundings.
 
-[Download Safe Headphones](https://play.google.com/store/apps/details?id=com.jazibkhan.safeheadphones)
+[Download Safe Headphones](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller)
 
 ### Black Screen
 
